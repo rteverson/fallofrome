@@ -125,10 +125,17 @@ Basilica,church,nul,Basillica B,Basillica B,Resafah sergiopolis,nul,490,480,500,
 Basilica,church,nul,St. Sergius,"St. Sergius, Basilica A",R'safah-sergiopolis,nul,510,500,520,510,stylistic,Krautheimer p. 113,"35.62761, 38.75625",,https://drive.google.com/a/fordham.edu/open?id=1wm1Lo7GK8GJmXQMrLaTHoqQyB4Dz-m6G&usp=sharing,,,,,,,,,,,
 Cross-shaped,church,nul,church of gaza,Omari Grand Mosque,"Gaza, Palestine",Empress Eudokia,401,401,401,401,literary source,Krautheimer p. 117,"31.5043, 34.46441",,https://tools.wmflabs.org/geohack/geohack.php?pagename=Great_Mosque_of_Gaza&params=31_30_15.13_N_34_27_52.08_E_region:IL_type:landmark,,,,no,no,Mark the Deacon,,,,,
 Cross-shaped,church,nul,"Church of the Prophets, Apostles and Martyrs","Church of the Prophets, Apostles and Martyrs",Jerash,nul,465,465,465,465,check,Krautheimer p. 117,,,,,,,ruined city,Kraeling,,,,,,
+<<<<<<< HEAD
 Cross-shaped,church,nul,St. Stephen,St. Stephen,Jerusalem,Empress Eudokia,440,437,460,449,check,Krautheimer p. 117,31.785,35.23,,,,,,x,x,,,,,
 basilica,church,nul,basilica at Evron,basilica at Evron,"Evron, Israel",nul,415-492,415,492,454,mosaic pavements date building phases precisely,Krautheimer p.118,,,,,,,,,,,,,,
 basilica,church,nul,St. Theodore,St. Theodore,Jerash,nul,494-496,494,496,495,check,Krautheimer p.118,,,,,,,,,,,,,,
 "basilica, reduced cross transept",church,nul,Basilica at Et-tabgha,Basilica at Et-tabgha, El-tabgha,nul,500,480,520,500,approximate,Krautheimer p.118,,,,,,,,x,,,,,,
+=======
+Cross-shaped,church,nul,St. Stephen,St. Stephen,Jerusalem,Empress Eudokia,440,437,460,449,check,Krautheimer p. 117,,,,,,,,x,x,,,,,
+basilica,church,nul,basilica at Evron,basilica at Evron,"Evron, Israel",nul,415-492,415,492,454,mosaic pavements date building phases precisely,Krautheimer p.118,,,,,,,,,,,,,,
+basilica,church,nul,St. Theodore,St. Theodore,Jerash,nul,494-496,494,496,495,check,Krautheimer p.118,,,,,,,,,,,,,,
+"basilica, reduced cross transept",church,nul,Basilica at Et-tabgha,Basilica at Et-tabgha, Et-tabgha,nul,500,480,520,500,approximate,Krautheimer p.118,,,,,,,,x,,,,,,
+>>>>>>> 879a1bdf86cde53035ef88240e3e52cef6b6c3e4
 basilica,church,nul,church at Sbeita,church at Sbeita,"Sbeita, Negev, Israel",nul,510,490,530,510,approx,Krautheimer p. 119,,,,,,,,x,,,,,,
 basilica,cathedral,nul,basilica cathedral Gerash,basilica cathedral Gerash,Jerash,nul,400,380,420,400,stylistic approx,Krautheimer p. 119,,,,,,,,kraeling,,,,,,
 Cross-shaped,church,nul,church of the baptist,church of the baptist,Jerash,nul,520,510,530,520,check,check,,,,,,,,kraeling,,,,,,
