@@ -11,18 +11,18 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 (https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
 
-*Data frame
-*Legend
-*Scale
-*North Arrow
-*Background Data
-*Locator Map
-*Projection
-*Symbolization
-*Labels
-*Title
-*Source of information
-*Coordinate system
+* Data frame
+* Legend
+* Scale
+* North Arrow
+* Background Data
+* Locator Map
+* Projection
+* Symbolization
+* Labels
+* Title
+* Source of information
+* Coordinate system
 
 Most maps should have a clear and concise title, a notation on the scale (or if the map is not to scale), and, when needed for orientation, a north arrow.
 
