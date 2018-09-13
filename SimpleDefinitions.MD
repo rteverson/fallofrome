@@ -16,7 +16,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Scale
 * North Arrow
 * Background Data
-* Locator Map
+* Locator Map: A smaller inset map showing the location of the mapped area. 
 * Projection
 * Symbolization
 * Labels
