@@ -16,7 +16,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Scale
 * North Arrow
 * Background Data
-* Locator Map
+* Locator Map: a simple map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
 * Projection
 * Symbolization
 * Labels
