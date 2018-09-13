@@ -11,7 +11,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 (https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
 
-* Data frame
+* Data frame: The data frame is the portion of the map that displays the data layers. 
 * Legend
 * Scale
 * North Arrow
