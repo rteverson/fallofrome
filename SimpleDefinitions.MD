@@ -18,7 +18,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Background Data
 * Locator Map
 * Projection
-* Symbolization
+* Symbolization: the characters, letters, or similar graphic representations used on a map to indicate an object or characteristic in the real world
 * Labels
 * Title
 * Source of information
