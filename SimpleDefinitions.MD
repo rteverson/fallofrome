@@ -26,3 +26,6 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 Most maps should have a clear and concise title, a notation on the scale (or if the map is not to scale), and, when needed for orientation, a north arrow.
 
+<h3>Cartography is dead</h3>
+(http://www.software-maps.com/stories-is-cartography-dead.htm)
+
