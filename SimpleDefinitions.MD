@@ -20,7 +20,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Projection
 * Symbolization: an unconscious mental process whereby one object or idea comes to stand for another through some part, quality, or aspect that the two share in common, with the symbol carrying the emotional feelings vested in the initial object or idea
 * Labels
-* Title
+* Title: Usually draws attention by virtue of its dominant size; serves to focus attention on the primary content of the map. Should be an answer to "What? Where? When?"
 * Source of information
 * Coordinate system
 
