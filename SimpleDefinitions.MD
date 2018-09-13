@@ -22,7 +22,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Labels
 * Title
 * Source of information
-* Coordinate system
+* Coordinate system: a system which uses one or more numbers, or coordinates, to uniquely determine the position of the points or other geometric elements on a manifold such as Euclidean space.
 
 Most maps should have a clear and concise title, a notation on the scale (or if the map is not to scale), and, when needed for orientation, a north arrow.
 
