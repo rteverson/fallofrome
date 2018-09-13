@@ -12,7 +12,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 (https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
 
 * Data frame
-* Legend
+* Legend: an explanatory list of the symbols on a map or chart.
 * Scale
 * North Arrow
 * Background Data
