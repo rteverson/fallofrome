@@ -13,7 +13,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 * Data frame
 * Legend
-* Scale
+* Scale: the ratio of the distance between two points on a map and the actual distance between the two points on the earth's surface. ... The larger the scale of a map, the closer it approaches the actual size of features on the earth's surface
 * North Arrow
 * Background Data
 * Locator Map
