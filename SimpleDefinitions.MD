@@ -13,7 +13,9 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 * Data frame: The data frame is the portion of the map that displays the data layers. 
 * Legend
-* Scale- the ratio of distances or sometimes of areas on a map to the corresponding values on the earth, or: the ratio of a distance on the map to the corresponding distance on the ground. 
+* Scale- the ratio of distances or sometimes of areas on a map to the corresponding values on the earth, or: the ratio of a distance on the map to the corresponding distance on the ground. The larger the scale of a map, the closer it approaches the actual size of features on the earth's surface
+ 
+
 * North Arrow
 * Background Data
 
