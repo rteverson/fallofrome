@@ -18,7 +18,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Background Data
 * Locator Map: a simple map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
 * Projection
-* Symbolization
+* Symbolization: an unconscious mental process whereby one object or idea comes to stand for another through some part, quality, or aspect that the two share in common, with the symbol carrying the emotional feelings vested in the initial object or idea
 * Labels
 * Title
 * Source of information
