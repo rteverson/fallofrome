@@ -20,7 +20,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Projection
 * Symbolization
 * Labels
-* Title
+* Title Usually draws attention by virtue of its dominant size; serves to focus attention on the primary content of the map. Should be an answer to "What? Where? When?"
 * Source of information
 * Coordinate system
 
