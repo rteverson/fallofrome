@@ -19,7 +19,8 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 * North Arrow
 * Background Data
-* Locator Map: a simple map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
+
+* Locator Map: A smaller inset map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
 * Projection - The transformation of latitudes/longitudes on a three-dimensional plane to locations on a two-dimensional plane.
 * Symbolization: the characters, letters, or similar graphic representations used on a map to indicate an object or characteristic in the real world. Or: Map symbolization is the characters, letters, or similar graphic representations used on a map to indicate an object or characteristic in the real world.
 More generally: an unconscious mental process whereby one object or idea comes to stand for another through some part, quality, or aspect that the two share in common, with the symbol carrying the emotional feelings vested in the initial object or idea
