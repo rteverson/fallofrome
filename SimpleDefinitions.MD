@@ -18,7 +18,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * Background Data
 * Locator Map
 * Projection
-* Symbolization
+* Symbolization: an unconscious mental process whereby one object or idea comes to stand for another through some part, quality, or aspect that the two share in common, with the symbol carrying the emotional feelings vested in the initial object or idea
 * Labels
 * Title
 * Source of information
