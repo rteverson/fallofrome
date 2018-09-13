@@ -13,7 +13,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 * Data frame
 * Legend
-* Scale- the ratio of distances or sometimes of areas on a map to the corresponding values on the earth.
+* Scale- the ratio of distances or sometimes of areas on a map to the corresponding values on the earth
 * North Arrow
 * Background Data
 * Locator Map
