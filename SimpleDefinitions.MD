@@ -11,18 +11,22 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 (https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
 
-* Data frame
+* Data frame: The data frame is the portion of the map that displays the data layers. 
 * Legend
-* Scale: the ratio of the distance between two points on a map and the actual distance between the two points on the earth's surface. ... The larger the scale of a map, the closer it approaches the actual size of features on the earth's surface
+* Scale- the ratio of distances or sometimes of areas on a map to the corresponding values on the earth, or: the ratio of a distance on the map to the corresponding distance on the ground. The larger the scale of a map, the closer it approaches the actual size of features on the earth's surface
+ 
+
 * North Arrow
 * Background Data
-* Locator Map
-* Projection
-* Symbolization
+
+* Locator Map: a simple map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
+* Projection - The transformation of latitudes/longitudes on a three-dimensional plane to locations on a two-dimensional plane.
+* Symbolization: the characters, letters, or similar graphic representations used on a map to indicate an object or characteristic in the real world. More generally: an unconscious mental process whereby one object or idea comes to stand for another through some part, quality, or aspect that the two share in common, with the symbol carrying the emotional feelings vested in the initial object or idea
+
 * Labels
-* Title
+* Title: Usually draws attention by virtue of its dominant size; serves to focus attention on the primary content of the map. Should be an answer to "What? Where? When?"
 * Source of information
-* Coordinate system
+* Coordinate system: a system which uses one or more numbers, or coordinates, to uniquely determine the position of the points or other geometric elements on a manifold such as Euclidean space.
 
 Most maps should have a clear and concise title, a notation on the scale (or if the map is not to scale), and, when needed for orientation, a north arrow.
 
