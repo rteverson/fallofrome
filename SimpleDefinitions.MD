@@ -17,7 +17,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 * North Arrow
 * Background Data
 * Locator Map
-* Projection
+* Projection - The transformation of latitudes/longitudes on a three-dimensional plane to locations on a plane.
 * Symbolization
 * Labels
 * Title
