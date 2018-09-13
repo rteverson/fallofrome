@@ -11,12 +11,12 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
 
 (https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
 
-* Data frame
+* Data frame: The data frame is the portion of the map that displays the data layers. 
 * Legend
-* Scale
+* Scale- the ratio of distances or sometimes of areas on a map to the corresponding values on the earth
 * North Arrow
 * Background Data
-* Locator Map
+* Locator Map: a simple map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
 * Projection
 * Symbolization
 * Labels
