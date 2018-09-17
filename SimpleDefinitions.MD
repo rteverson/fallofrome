@@ -18,7 +18,7 @@ scale.” (Clarke, 2001) (http://www.geo.hunter.cuny.edu/tbw/old/gtech201/notes/
  
 
 * North Arrow
-* Background Data
+* Background Data. Background data is the information that the cartographer has chosen to include in the mapped area, such as place-names geographic figures, roads, etc.
 
 * Locator Map: A smaller inset map used in cartography to show the location of a particular geographic area within its larger and presumably more familiar context
 * Projection - The transformation of latitudes/longitudes on a three-dimensional plane to locations on a two-dimensional plane.
