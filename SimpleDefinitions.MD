@@ -27,7 +27,9 @@ More generally: an unconscious mental process whereby one object or idea comes t
 
 
 * Labels
-* Title: Usually draws attention by virtue of its dominant size; serves to focus attention on the primary content of the map. Should be an answer to "What? Where? When?"
+
+* Title Usually draws attention by virtue of its dominant size; serves to focus attention on the primary content of the map. Should be an answer to "What? Where? When?"
+
 * Source of information
 * Coordinate system: a system which uses one or more numbers, or coordinates, to uniquely determine the position of the points or other geometric elements on a manifold such as Euclidean space.
 
