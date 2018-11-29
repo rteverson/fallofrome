@@ -79,7 +79,7 @@ highest likely date
 * __DateDecision__\
 a plausible point in this range. You can either calculate this as the mathematical mean, or cheat the number if that is more accurate.
 
-* __...subject-specific columns go here...__
+
 
 * __Notes1__\
 Any notes on the above, eg on the dating decision, or how the location can be argued for
@@ -91,6 +91,8 @@ Any notes on the above, eg on the dating decision, or how the location can be ar
 Scholarly source where you found the information here
 * __Citation2__\
 Scholarly source where you found the information here
+
+* __...subject-specific columns go here...__
 
 ## Scholarly Resources.
 
