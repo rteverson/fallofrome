@@ -92,4 +92,10 @@ Scholarly source where you found the information here
 * __Citation2__\
 Scholarly source where you found the information here
 
+## Scholarly Resources.
+
+Data in this repository has been drawn from a range of scholarly sources, including the following online databases.
+
+* Cities: [Hanson, J. W. (2016b). An Urban Geography of the Roman World, 100 B.C. to A.D. 300. Oxford: Archaeopress.(<http://oxrep.classics.ox.ac.uk/databases/cities/>. DOI: <https://doi.org/10.5287/bodleian:eqapevAn8>)
+
 
