@@ -1,0 +1,40 @@
+NameModern,NameAncient,LocationAncient1,LocationModern1,Lat,Long,GeolocationSource,GeolocationCitation,GeolocationCertainty,Date,DateLow,DateHigh,DateDecision,Notes1,Notes2,Notes3,Citation1,Citation2,DomeNumberOf,DomeDiameterMeters,BuildingType
+Baths of Caracalla (Side Building),,Rome,Rome,41.879444°,12.493056°,Extant (Ruins),Wikipedia,100%,212-216,212,216,216,,,,"Rasch, 130",,1,19.8,Baths
+Baths of Caracalla (Caldarium),,Rome,Rome,41.879444°,12.493056°,Extant (Ruins),Wikipedia,100%,212-216,212,216,216,,,,"Sear, 258",,1,35.08,Baths
+Mausoleum of Villa Gordiani,,Rome,Rome,41.894164°,12.553769°,Extant,Wikipedia,100%,3rd. C,200,300,250,,,,"Rasch, 128",,1,11.1,Mausoleum
+Pantheon of Ostia,,Ostia,Ostia,41.755833°,12.291667°,Extant (Ruins),Wikipedia,100%,3. Jh.,200,300,250,,,,"Rasch, 129",,1,18.38,Rotunda
+Mausoleum of Tor de' Schiavi,,Rome,Rome,41.894164°,12.553769°,Extant,Wikipedia,100%,300,300,300,300,,,,"Ward Perkins, Imperial Architecture",,1,13.71,Mausoleum
+Mausoleum of Diocletian,,Spalatum,Split,43.508333°,16.44°,Extant,Wikipedia,100%,~300,300,300,300,,,,"Rasch, 129",,1,13.35,Mausoleum
+Mausoleum of Galerius,,Salonica,Thessaloniki,40.633333°,22.952917°,Extant,Wikipedia,100%,Before 311,293,311,305,Converted to rotunda,,,"Ward Perkins, Imperial Architecture",,1,24.15,Mausoleum
+Mausoleum of Maxentius,,Rome,Romes,41.854722°,12.519194°,Extant (Ruins),Wikipedia,100%,4. Jh.,300,309,305,,,,"Rasch, 123",,1,25.04,Mausoleum
+Baths of Diocletian (San Bernardo),,Rome,Rome,41.903°,12.498°,Extant,Wikipedia,100%,~300,306,306,306,Converted into an abbatial church in 1598,,,"Rasch, 138",,1,22,Baths
+Baths of Diocletian (Planetarium),,Rome,Rome,41.903°,12.498°,Extant,Wikipedia,100%,~300,306,306,306,,,,"Rasch, 130",,1,21.65,Baths
+Baths of Diocletian (Tepidarium),,Rome,Rome,41.903°,12.498°,Extant,Wikipedia,100%,~300,306,306,306,,,,"Rasch, 136",,1,19.3,Baths
+Mausoleum of Helena,,Rome,Rome,41.878889°,12.548611°,Extant (Ruins),Wikipedia,100%,4. Jh.,326,330,330,,,,"Rasch, 129",,1,20.18,Mausoleum
+Church of the Holy Sepulchre,,Jerusalem,Jerusalem,31.778333°,35.229722°,Extant,Wikipedia,100%,Restoration as of ca. 348,348,348,348,,,,"MacDougal, 21",,1,35,Rotunda
+Temple of Minerva Medica,,Rome,Rome,41.8939°,12.5118°,Extant,Google Maps,100%,4th Century,300,399,350,Lightweight Pumice Concrete,"Not a temple to Minerva, but a Nymphaeum, a building dedicated to nymphs",,Steven T. Muench,"Ward Perkins, Imperial Architecture",1,23.65,Nymphaeum
+Santa Costanza,,Rome,Rome,41.922614°,12.517375°,Extant,Wikipedia,100%,350,350,350,350,Built as a mausoleum for Constantine's daughter,,,"Krautheimer, 67",,1,11.5,Mausoleum
+St. Gereon's Basilica,,Colonia Claudia Ara Agrippinensium,Cologne,50.943333°,6.945833°,Extant,Wikipedia,100%,4. Jh.,300,400,350,"Oval-shaped, diameter is of widest point (Rasch)",,,"Rasch, 126",,1,23.7,Unsure
+Baths of Bacucco,,Latium,Lazio,42.4597°,12.0652°,Extant (Ruins),Google Maps,100%,4. Jh.,300,400,350,,,,"Rasch, 130",,unsure,19.4,Baths
+Trier Imperial Baths,,Augusta Treverorum,Trier,49.749729°,6.642259°,Extant (Ruins),Wikipedia,100%,4. Jh.,300,400,350,,,,"Rasch, 124",,unsure,16.45,Baths
+Tempio della Tosse,,Tivoli,Tivoli,41.962892°,12.789358°,Extant,Wikipedia,100%,4. Jh.,300,400,350,,,,"Rasch, 128",,1,12.33,Temple
+Mausoleum of Centocelle,,Constantí,Constantí,41.152111°,1.230472°,Extant,Wikipedia,100%,4. Jh.,300,400,350,,,,"Rasch, 128",,1,10.7,Mausoleum
+Heroon of Romulus,,Rome,Rome,41.8922°,12.4852°,Extant (Ruins),Wikipedia,100%,4. Jh.,300,400,350,,,,"Rasch, 129",,1,14.7,Heroon
+Praetorium at Cologne,,Colonia Claudia Ara Agrippinensium,Cologne,50.9393°,6.9584°,Extant (Ruins),Google Maps,100%,4. Jh.,300,400,350,,,,"Rasch, 128",,1,11.47,Praetorium
+Chapel of Saint Aquilino,,Milan,Milan,45.458333°,9.181944°,Extant (modified),Wikipedia,100%,4. Jh.,390,402,400,,,,"Rasch, 123",,1,12.9,Mausoleum
+Baptistry at the Lateran,,Rome,Rome,41.88615°,12.504289°,Extant,Wikipedia,100%,"315, remodelled 432-40",315,440,315,,,,"Krautheimer, 90",,1,8.5,Baptistery
+Baptistery of the Orthodox,,Ravenna,Ravenna,44.415556°,12.197222°,Extant,Wikipedia,100%,400-450,400,450,450,,,,"Krautheimer, 177",,1,11.28,Baptistery
+Mausoleum of Galla Placidia,,Ravenna,Ravenna,44.421111°,12.196944°,Extant,Wikipedia,100%,middle of the fifth century,450,450,450,,,,"MacDougal, 28",,1,4.4,Mausoleum
+Riva S. Vitale Baptistery,,Riva San Vitale,Riva San Vitale,45.904578°,8.970906°,Extant,Wikipedia,100%,500,500,500,500,,,,"Krautheimer, 177",,1,6.5,Baptistery
+Mausoleum of Theoderic,,Ravenna,Ravenna,44.425°,12.209167°,Extant,Wikipedia,100%,526,526,526,526,,,,"Krautheimer, 272",,1,11,Mausoleum
+Church of Sts Sergius and Bacchus,,Constantinople,Istanbul,41.002778°,28.971944°,Extant,Wikipedia,100%,524-7,527,527,527,Converted into mosque,,,"Mango, Cambridge Ancient History",,1,17,Domed Basilica
+Hagia Irene,,Constantinople,Istanbul,41.009722°,28.981111°,Extant,Wikipedia,100%,"Begun 532, remodelled 730",532,730,532,"Burnt down during Nika riots, rebuilt 548",,,"Krautheimer, 250-252",,1,16,Domed Basilica
+Hagia Sophia,,Constantinople,Istanbul,41.0085°,28.9799°,Extant,Wikipedia,100%,532-537,532,537,537,,,,"Krautheimer, 163",,1,32.6,Domed Basilica
+Basilica of San Vitale,,Ravenna,Ravenna,44.42°,12.196°,Extant,Wikipedia,100%,6. Jh.,547,547,547,,,,"Rasch, 124",,1,15.7,Domed Basilica
+Baptistery of Santa Maria Maggiore,,Nuocera Superiore,Nuocera Superiore,40.733333°,14.666667°,Extant,Wikipedia,100%,6. Jh.,500,600,550,,,,"Rasch, 129",,1,11.9,Baptistery
+Church at Qasr-ibn-Wardan,,Qasr-ibn-Wardan,Qasr-ibn-Wardan,35.374319°,37.25069°,Extant (Ruins),Wikipedia,100%,564,564,564,564,Diameter estimated from archeological plan,,,"MacDougal, 36",,1,6.86,Domed Basilica
+Basilica of St. John at Ephesus,,Ephesus,Selçuk,37.9525°,27.3678°,Extant (Ruins),Wikipedia,100%,6th Century,548,565,565,Dome added by Justinian,Dome diameter estimated from archeological plan,,"Mango, Cambridge Ancient History",,6,11,Domed Basilica
+Church of H. David at Salonica,,Salonica,Thessaloniki,40.651417°,22.9675°,Extant (Ruins),Wikipedia,100%,5th century (last 3rd),566,599,583,Diameter estimated from archeological plan,,,"Krautheimer, 239",,1,9,Domed Basilica
+Hagia Sophia of Salonica,,Salonica,Thessaloniki,40.640083°,22.962333°,Extant,Wikipedia,100%,Early eighth century,700,740,720,,,,"Krautheimer, 291",,1,10,Domed Basilica
+Hagia Polyeuktos,,Constantinople,Istanbul,41.014°,28.953°,Conjecture,Wikipedia,90%,524-527,524,527,527,,,,"Krautheimer, 219",,1,20,Domed Basilica
+Palace of Lausos,,Constantinople,Istanbul,41.0075°,28.974444°,Conjecture,Wikipedia,90%,5th century,530,550,540,"Coordinates taken from Cistern of Philoxenos, the cistern above which the palace probably stood",,,"Krautheimer, 72",,1,29.6,Rotunda
