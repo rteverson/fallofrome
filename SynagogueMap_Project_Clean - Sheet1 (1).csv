@@ -1,0 +1,59 @@
+NameModern ,NameAncient,LocationAncient1,LocationAncient2,LocationAncient3,LocationModern,LocationModern2,LocationModern3,Latitude,Longitude,GeolocationSource,GeolocationCitation,GeolocationCertainty,Date (CE),Date Low (CE),Date High (CE),Date Decision (CE),Date Notes,Synagogue Destroyed,Synagogue Converted,State Sponsored,Details,Punished,Notes,Citations
+NA,Unknown Synagogue,Callinicum,Osrhoene Province,Roman Empire,Arr Raqqah,Need more info,Syria,35.96025,38.995028,tbd,Google Maps,Accurate only to city (50),388,388,388,388,Exact,Yes,No,No ,"Done by Christian mob led by local bishop, synagogue burned","No, see Ambrose letter",,"""Readings in Late Antiquity"" by Michael Maas, pg 197"
+NA,Unknown Synagogue,Alexandria,Egypt,Roman Empire,Alexandria,Need more info,Egypt,31.2,29.916667,tbd,Google Maps,Accurate only to city (50),414,tbd,tbd,414,null,Yes,No,Yes,"Destruction of synagogues and expulsion from Alexandria, Cyril of Alexandria",,,"Gibbon's ""The Decline and Fall of the Roman Empire"" pg 469, Verus Israel pp 265"
+NA,Unknown Synagogue,Magona,Minorca,Unknown,Alaior,Balearic Islands,Spain,39.949859,4.110523,tbd,Google Maps,Accurate only to city (50),418,tbd,tbd,418,null,Yes,No,No,Synagogue burned,,"This report comes from ""Letter of Severus on the Conversion of the Jews"" which has been questioned for its accuracy. Most scholars seem to think though that this event, regardless of the details surrounding it, did occur. ",
+NA,Unknown Synagogue,Dertona,Need more info,Roman Empire,Tortona,Need more info,Italy,44.895519,8.865978,tbd,Google Maps,Accurate only to city (50),Mid 4th cent. ,450,475,460,Approximate average,Yes,Unsure,No,Attack on (and later possible conversion of) synagogue by Bishop Innocentius,,,
+NA,Unknown Synagogue,Antioch,Need more info,Roman Empire,Antakya,Unknown,Turkey,36.201603,36.166289,tbd,Google Maps,Accurate only to city (50),489,tbd,tbd,489,null,more research required,more research required,No,Synagogue taken over,,,
+name of basilica,Unknown Synagogue,Edessa,Antioch,Roman Empire,Urfa,Urfa Province,Turkey,37.167649,38.79565,tbd,Google Maps,Accurate only to city (50),411,411,412,412,null,More research required,Yes,More research required,Synagogue converted to basilica,,Modern area: Şanlıurfa Province (changed for program to read),
+NA,Unknown Synagogue,Clermont,Auvergne,Gaul,Clermont,Auvergne Rhone Alpes,France,45.971844,5.908877,tbd,Google Maps,Accurate only to city (50),576,tbd,tbd,tbd,null,Yes,No,No,"Synagogue in Clermont destroyed, Jews face mob violence (later mass conversion, etc)",,Modern area: Auvergne-Rhône-Alpes (changed due to character limitations),"Oxford Dictionary of Late Antiquity
+THE CONVERSION OF THE JEWS OF CLERMONT IN ad 576 (Journal Article)
+see: A Most Reliable Witness for details, sources pg 42
+"
+Unknown basilica,Unknown Synagogue,Onchesmos (Anchiasmos),Possibly Greece,Need more information,Saranda ,Need more info,Albania,39.874608,20.006883,tbd,GeoHack,Exact (100),6th cent.,tbd,tbd,tbd,null,More research required,Yes,More research required,Onchesmos synagogue converted to basilica,,Saranda (Sarandë),"found on wikipedia page
+(see: Oxford Dict.)
+Two sources listed: neither in library → try to find for more details
+"
+Stobi Synagogue Basilica,Unknown Synagogue,Stobi,Macedonia Salutaris Province,Roman Empire,Stobi,Need more info,Macedonia,41.552558,21.975282,tbd,Google Maps,General excavation site (75),Late 4th cent. or early 5th,375,425,300,Estimation based on avg.,More research required,Yes,No,Stobi Synagogue converted to a basilica,,Unsure if Stobi is original name,"Need more information
+See: A Most Reliable Witness for details, sources"
+Sardis Synagogue,Sardis Synagogue,Sardis,Lydia Province,Roman Empire,Sardis,Manisa Province,Turkey,38.488333,28.040278,tbd,GeoHack,Exact (100),616,tbd,tbd,tbd,null,Yes,No,More research required,Sardis Synagogue destroyed by Sassanid invasion *is this the result of violent conquest or was the synagogue specifically targeted for destruction???,,,"see Oxford Dict.
+also: website with info 
+"
+NA,Unknown Roman Synagogue,Rome,Need more info,Need more info,Rome,Need more info,Italy,41.901291,12.501613,tbd,Google Maps,Accurate only to city (50),387,387,387,387,null,Yes,No,No,Synagogue burned down in Rome (by Christian mob?),,,"Maximus, just before he’s defeated, issues an edict ordering the rebuilding of a destroyed synagogue
+→ referenced by Ambrose to Theodosius re: issue over Callinicum synagogue, 388 CE
+*does this primary source exist beyond ref. in Ambrose 40 ?????
+"
+NA,Unknown Synagogue,Milan,Need more info,Roman Empire,Milan,Need more info,Italy,45.463986,9.194261,tbd,Google Maps,Accurate only to city (50),507,507,507,507,Needs to be backed up with more evidence ,Yes,No,No,Milan Synagogue burned,,,"found on wikipedia → need source
+(Mentioned by Ambrose of Milan ?)
+
+In 507 CE, Synagogue attacked by a Christian mob
+"
+Daphne Synagogue,Unknown Synagogue,Daphne,Antioch,Need more info,Harbiye,Need more info,Turkey,36.138723,36.144527,tbd,Google Maps,Accurate only to city (50),506,506,506,506,Double check for date accuracy,Yes,No,More research required,Synagogue of Daphne destroyed,,,"Wikipedia → need more info
+Jews massacred by a Christian mob after a chariot race
+see: A Most Reliable Witness for details, sources pg 41"
+NA,Unknown Synagogue,Ravenna,Need more info,Roman Empire,Ravenna ,Province of Ravenna,Italy,44.418337,12.201524,tbd,Google Maps,Accurate only to city (50),519,519,519,519,Double check for date accuracy,Yes,No,No,Ravenna synagogues burned,,,"“Ravenna, Italy. After the local synagogues were burned down by the local mob, the Ostrogothic king Theodoric the Great orders the town to rebuild them at its own expense.” - Wikipedia → need more info
+See: A Most Reliable Witness for details, sources pg 41"
+Unknown Church,Borion Synagogue,Cyrene,Need more info,North Africa,Shahat,Need more info,Libya,32.818931,21.857848,tbd,Google Maps,Accurate only to city (50),534,535,550,tbd,Disputed data,More research required,Yes,Yes,"Borion Synagogue closed → converted to church, under Justinian's orders (?)",,,"*wikipedia → need more info
+*under Justinian → see quote about converting synagogues to churches
+*see: A Most Reliable Witness for details, sources pg 41
+"
+NA,Unknown Synagogue,Palermo,Need more info,Roman Empire,Palermo,Province of Palermo,Italy,38.117118,13.347885,tbd,Google Maps,Accurate only to city (50),598,598,598,598,More fact checking required,More research required,Yes,More research required,Synagogues seized and turned into Churches by local bishop victor of palermo,,,*need more info
+NA,Tipasa Synagogue,Tipasa,Need more info,Need more info,Tipasa,Need more info,Algeria,36.619656,2.389541,tbd,Google Maps,Accurate only to city (50),Early 4th cent.,300,350,325,Early 4th cent. ,More research required,Yes,More research required,Tipasa Synagogue converted to a church,,,"*see: A Most Reliable Witness for details, sources"
+NA,Unknown Synagogue,Apamea,Syria Secunda,Syria,Afamia,Ghab Plain,Syria,35.420246,36.401231,tbd,Google Maps,Accurate only to city (50),,415,420,tbd,More fact checking required,Mostly,Yes,More research required,Apamea: Synagogue mosaic found under church mosaic,,,"*see: A Most Reliable Witness for details, sources"
+NA,Unknown synagogue,Rabbat-Moab,Need more info,Palestine,Aeropolis / Rabba,Need more info,Jordan,31.270248,35.737485,tbd,Google Maps,Accurate only to city (50),419,419,422,421,419-422 CE (unsure why this range),Yes,No,No,Synagogue at Rabbat Moab burned by Barsauma and monks,,,"*see: A Most Reliable Witness for details, sources
+*These monks also destroyed other synagogues in Roman Palestine
+"
+Unknown church name,Unknown synagogue,Constantinople,Need more info,Need more info,Istanbul,Need more info,Turkey,41.006788,28.980499,tbd,Google Maps,Accurate only to city (50),442,442,442,442,more fact checking required,More research required,Yes,,Synagogue conversion at Constantinople,,,"*see: A Most Reliable Witness for details, sources pg. 40
+* state-sponsored
+"
+Gerasa Synagogue,Unknown Gerasa synagogue,Gerasa,Need more info,Need more info,Jerash,Need more info,Jordan,32.282798,35.890223,tbd,Google Maps,Exact,530 or 531,530,531,531,"Two different dates given, more fact checking required",More research required,Yes,More research required,Gerasa Synagogue conversion (church built over synagogue),,,"*see: A Most Reliable Witness for details, sources pg 40"
+NA,Unknown Roman Synagogue,Rome,Need more info,Need more info,Rome,Need more info,Italy,41.906438,12.481353,tbd,Google Maps,Accurate only to city (50),,509,511,510,Average estimation,Yes,No,More research required,Rome synagogue burned,,,"*see: A Most Reliable Witness for details, sources pg 41
+*condemned by Theodoric
+"
+NA,Synagogue,Kalesh near Amida,Mesopotamia,Syria,Diyarbekir,Need more info,Turkey,37.924891,40.207792,tbd,Google Maps,Accurate to region (25),6th cent. ,tbd,tbd,tbd,More fact checking required,Yes,No,No,Synagogue in Kalesh near Amida burned down by local monk (Sergius) and his followers,,,"*see: A Most Reliable Witness for details, sources pg 41
+*condemned by Theodoric
+"
+NA,Unknown synagogue,Orleans,Need more info,Gaul ,Orleans,Need more info,France,47.900913,1.906214,tbd,Google Maps,,Pre-585,tbd,580,tbd,more fact checking required,Yes,No,More research required,Synagogue at Orleans destroyed,,,"*reported by Gregory of Tours
+**see: A Most Reliable Witness for details, sources pg 42"
+Church of Theotokos Chalkoprateia,Unknown synagogue,Constantinople,Need more info,Byzantine Empire,Istanbul,Need more info,Turkey,41.010307,28.978678,tbd,Google Maps,Nearly exact (90),During reign of theodosius II,tbd,tbd,tbd,More fact checking required,No,Yes,Yes,Synagogue converted to church for Virgin Mary by Theodosius II,,,
+NA,Unknown Synagogues,Antioch,Need more info,Need more info,Antakya,Need more info,Turkey,36.201603,36.166289,tbd,Google Maps,Accurate only to city (50),423,423,423,423,The violence is said to be in response to an event dated to 415 but multiple sources have listed 423 as the date so that is currently the decided date,Yes,No,No,Synagogues destroyed by rioters,,,"Referenced in ""Faith and Fratricide"""
+Unknown church name,Synagogue containing macabee relics,Antioch,Need more info,Need more info,Antakya,Need more info,Turkey,36.201603,36.166289,tbd,Google Maps,Accurate only to city (50),386,350,386,365,"Early 4th century, no later than 386. Date chosen at random by average",No,Yes,More research required,Synagogue containing maccabee relics converted into a church,,,

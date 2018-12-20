@@ -1,0 +1,16 @@
+Bishop Name,Bishop Seat,LocationAncient1,LocationAncient2,LocationAncient3,LocationModern,LocationModern2,LocationModern3,Latitude,Longitude,GeolocationSource,GeolocationCitation,GeolocationCertainty,Date (CE),Date Low (CE),Date High CE),Date Decision (CE),Date (Notes)
+Ambrose,Milan,Milan,null,null,Milan,null,Italy,45.463755,9.186666,Google Maps,null,Accurate to city,null,null,null,null,null
+Septimius Severus,Magona,Magona,Minorca,null,Alaior,Balearic Islands,Spain,39.949859,4.110523,Google Maps,null,Accurate to city,null,null,null,null,null
+Cyril,Alexandria,Alexandria,null,null,Alexandria,null,Egypt,31.196823,29.920796,Google Maps,null,Accurate to city,null,null,null,null,null
+Unknown,Callinicum,Callinicum,null,null,Arr Raqqah,null,Syria,35.96027,38.995026,Google Maps,null,Accurate to city,null,null,null,null,null
+null,Constantinople,Constantinople,null,null,Istanbul,null,Turkey,41.032755,28.953193,Google Maps,null,Accurate to city,null,null,null,null,null
+null,Rome,Rome,null,null,Rome,null,Italy,41.90722,12.458194,Google Maps,null,Accurate to city,null,null,null,null,null
+null,Antioch,Antioch,null,null,Antakya,null,Turkey,36.220373,36.169574,Google Maps,null,Accurate to city,null,null,null,null,null
+null,Arles,Arles,null,null,Arles,null,France,43.66337,4.646325,Google Maps,null,Accurate to city,null,null,null,null,null
+Avitus,Clermont,Clermont,null,Gaul,Clermont,null,France,45.778195,3.089447,Google Maps,null,Accurate to city,null,null,null,null,null
+Victor,Palermo,Palermo,null,null,Palermo,null,Italy,38.104723,13.364084,Google Maps,null,Accurate to city,null,null,null,null,null
+null,Tours,Tours,null,Gaul,Tours,null,France,47.393529,0.693222,Google Maps,null,Accurate to city,null,null,null,null,null
+null,Jerusalem,Jerusalem,null,null,Jerusalem,null,Israel,31.769254,35.223386,Google Maps,null,Accurate to city,null,null,null,null,null
+Peter,Terracina,Terracina,null,null,Terracina,null,Italy,41.28985,13.238858,Google Maps,null,Accurate to city,null,null,null,null,null
+Unknown,Orleans,Orleans,null,Gaul,Orleans,null,France,47.908718,1.90818,Google Maps,null,Accurate to city,null,null,null,null,null
+Rabbula,Edessa,Edessa,Antioch,Roman Empire,Urfa,null,Turkey,37.164102,38.792175,Google Maps,null,Accurate to city,null,null,null,null,null
